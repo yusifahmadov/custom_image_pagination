@@ -1,16 +1,20 @@
-# imageproject
+## Custom Image Pagination Project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack:
+- retrofit: 4.0.1
+- mockito: 5.4.2
+- json_annotation: 4.8.1
+- flutter_screenutil: 5.8.4
+- retrofit_generator: 7.0.8
+- cached_network_image: 3.2.3
+- equatable: 2.0.5
+- dartz: 0.10.1
+- shared_preferences: 2.2.0
+- flutter_bloc: 8.1.3
+- dio: 5.3.0
+- google_fonts: 5.1.0
+- go_router: 9.0.2
+- get_it: 7.6.0
+- build_runner: 2.4.6
+- json_serializable: 6.7.1
+- mock_web_server: 5.0.0-nullsafety.1
